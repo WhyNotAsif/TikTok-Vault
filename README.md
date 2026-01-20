@@ -1,4 +1,4 @@
-# TikTok Downloader || Vault
+# TikTok Downloader
 
 A professional Windows desktop application for downloading TikTok videos with advanced filtering, metadata export, and batch processing.
 
@@ -16,10 +16,10 @@ A professional Windows desktop application for downloading TikTok videos with ad
 
 ## 📦 Installation (Windows)
 
-1. **Download** `TikTok-Downloader-Setup.exe` from [GitHub Releases](https://github.com/WhyNotAsif/tiktok-downloader/releases)
+1. **Download** `TikTok-Downloader-Setup.exe` from [Google Drive](https://drive.google.com/file/d/1ozxzcB2UjSb8pGveghG66A9NwNGrBf9b/view?usp=sharing)
 2. **Run** the MSI installer
 3. **Launch** from Start Menu
-4. **Data** saves to `Desktop/TikTok-Downloader/`
+4. **Data** saves to `Desktop/TikTok-Vault/`
 
 **Requirements:** Windows 10+ (64-bit), 500MB-2GB storage, Internet
 
@@ -33,12 +33,12 @@ A professional Windows desktop application for downloading TikTok videos with ad
    - **Start Date** - YYYY-MM-DD format
    - **End Date** - YYYY-MM-DD format
 4. Click Download
-5. Find files in `Desktop/TikTok-Downloader/downloads/`
+5. Find files in `Desktop/TikTok-Vault/downloads/`
 
 ## 📁 File Storage
 
 ```
-Desktop/TikTok-Downloader/
+Desktop/TikTok-Vault/
 ├── downloads/
 │   └── [username]/
 │       ├── video1.mp4
@@ -55,7 +55,7 @@ Desktop/TikTok-Downloader/
 **Current Version:** 1.0.0 (January 2026)
 
 ### 🔐 Version Expiry
-- ⚠️ **Expires:** December 31, 2027
+- ⚠️ **Expires:** December 31, 2026
 - After expiry, app will not launch
 - Download v2.0.0+ from GitHub Releases
 - Check for updates regularly
