@@ -16,7 +16,7 @@ A professional Windows desktop application for downloading TikTok videos with ad
 
 ## 📦 Installation (Windows)
 
-1. **Download** `TikTok-Downloader-Setup.exe` from [Google Drive](https://drive.google.com/file/d/1ozxzcB2UjSb8pGveghG66A9NwNGrBf9b/view?usp=sharing)
+1. **Download** `TikTok-Downloader-Setup.exe` from [Google Drive](https://drive.google.com/file/d/18k7mMCFVn81OnAILxP5Q9_7wk2Rf2o6T/view?usp=sharing)
 2. **Run** the MSI installer
 3. **Launch** from Start Menu
 4. **Data** saves to `Desktop/TikTok-Vault/`
